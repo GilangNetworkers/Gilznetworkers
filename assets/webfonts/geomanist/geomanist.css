@@ -1,0 +1,35 @@
+@font-face{
+	font-family:geomanist;
+	src:url(geomanist-book.eot);
+	src:url(geomanist-book.eot?#iefix) format("embedded-opentype"),
+	url(geomanist-book.woff2) format("woff2"),
+	url(geomanist-book.woff) format("woff"),
+	url(geomanist-book.ttf) format("truetype"),
+	url(geomanist-book.svg#geomanist-book) format("svg");
+	font-weight:400;
+	font-style:normal
+}
+
+@font-face{
+	font-family:geomanist;
+	src:url(geomanist-regular.eot);
+	src:url(geomanist-regular.eot?#iefix) format("embedded-opentype"),
+	url(geomanist-regular.woff2) format("woff2"),
+	url(geomanist-regular.woff) format("woff"),
+	url(geomanist-regular.ttf) format("truetype"),
+	url(geomanist-regular.svg#geomanist-rbook) format("svg");
+	font-weight:300;
+	font-style:normal
+}
+
+@font-face{
+	font-family:geomanist;
+	src:url(geomanist-medium.eot);
+	src:url(geomanist-medium.eot?#iefix) format("embedded-opentype"),
+	url(geomanist-medium.woff2) format("woff2"),
+	url(geomanist-medium.woff) format("woff"),
+	url(geomanist-medium.ttf) format("truetype"),
+	url(geomanist-medium.svg#geomanist-medium) format("svg");
+	font-weight:500;
+	font-style:normal
+}
